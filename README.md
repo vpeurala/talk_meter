@@ -4,6 +4,10 @@
 
 A way to measure how much every person speaks in a discussion.
 
+## Works on Android, macOS and iOS, look!
+
+![Check this out!](docs/android_macos_and_ios.png?raw=true "Check this out!")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
