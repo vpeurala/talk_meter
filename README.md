@@ -1,5 +1,7 @@
 # talk_meter
 
+[![Build Status](https://travis-ci.org/vpeurala/talk_meter.svg?branch=master)](https://travis-ci.org/vpeurala/talk_meter)
+
 A way to measure how much every person speaks in a discussion.
 
 ## Getting Started
